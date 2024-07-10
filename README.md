@@ -1,2 +1,2 @@
 # Cryptography
-Codes to known Cryptography and Network Security Algorithms
+A quick gide to well-known Cryptography and Network Security Algorithms
